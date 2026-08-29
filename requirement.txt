@@ -1,5 +1,5 @@
 fpdf==1.7.2
 
 
-Access key ID	Secret access key
-AKIAZEX4VWY53N3YN3G6	vQozUkMcggJxcg6nDYqrKAVedVPdhadgUAr1G9hD
+User name	Password	Console sign-in URL
+shellkode_user	qFm4(pF3V10@	https://vananonlineservices.signin.aws.amazon.com/console
